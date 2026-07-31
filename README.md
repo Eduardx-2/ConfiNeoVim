@@ -1,7 +1,7 @@
 # NEOVIM CONFIGURACIÓN
 
 - Mi configuración actual de neovim, que uso en Fedora 43 + Tilix.
-- Soporte de lenguajes (LSP) -> Rust,Python y C#
+- Soporte de lenguajes (LSP) -> Rust,Python y C#.
 
   # KEYMAPS MODOS (ESTOS MODOS ESTAN PRESENTES EN LA CONFIGURACIÓN)
   - Mini tabla explicativa de cada letra, que veran al inicio de cada configuración, cada letra es un modo.
