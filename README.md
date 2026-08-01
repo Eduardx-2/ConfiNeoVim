@@ -15,3 +15,6 @@
         | `t`    | Terminal | Dentro de una terminal integrada en Neovim.                      |
         | `c`    | Command  | En la línea de comandos inferior (mientras escribes `:`).        |
 
+# FONDO PROPIO
+
+<a href="fondo.jpg"><img alt="fondo" src="fondo.jpg"></a>
