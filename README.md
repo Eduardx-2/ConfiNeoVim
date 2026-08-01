@@ -17,4 +17,4 @@
 
 # FONDO PROPIO
 
-<a href="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png"><img alt="fondo" src="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png"></a>
+<a href="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png"><img alt="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png" src="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png"></a>
