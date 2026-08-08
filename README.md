@@ -18,3 +18,4 @@
 # FONDO PROPIO
 
 <a href="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png"><img alt="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png" src="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fondo.png"></a>
+<a href="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fond3.png"><img alt="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fond3.png" src="https://github.com/Eduardx-2/ConfiNeoVim/blob/main/fond3.png"></a>
